@@ -43,6 +43,44 @@
                 <h3>Why did it end?</h3>
                 
                 <p>The ottoman empire ended because of its lack of technology in ww2 when everyone else had tanks all the ottaman had was bows and spears.</p>
+        <h3>Cool song i made but will not sing  Ussr anthem(ottoman cover)</h3>
+        
+        <p>United forever in friendship and labour,
+Our mighty republics will ever endure.
+The Great otoman empire will live through the ages.
+The diversity of the Janissaries their Quaran secure.
+            <br></br>
+Long live our otoman motherland,
+Built by the Suleiman's mighty hand.
+Long live our muslims, monotheistic and free.
+Strong in our forces tried by fire.
+Long may our crimson flag inspire,
+Shining in glory for all men to see.
+<br></br>
+Through days dark and stormy where Caliphs lead us
+Our EYES saw the BRIGHT sun of freedom ABOVE
+And Sultan our leader with faith in the istanbul
+Went into the war but we still lost
+<br></br>
+Long live our otoman motherland,
+Built by the people's mighty hand.
+Long live our people, united and free.
+Strong in our friendship tried by fire.
+Long may our crimson flag inspire,
+Shining in glory for all men to see.
+<br></br>
+We fought for the future, destroyed by the invaders,
+And brought to our homeland the agreement of shame.
+Our story will live in the memory of nations
+And all generations will remember are name.
+<br></br>
+Long live our otoman motherland,
+Built by the allahs mighty hand.
+Long live our people, united and free.
+Strong in our sultans tried by fire.
+Long may our crimson flag inspire,
+            Shining in glory for all men to see.<br></br></p>
+
             </div>
             <div class="col">
                 <h3>Why is the ottoman empire important to south east asia</h3>
@@ -61,6 +99,7 @@
                 <p>Sultan - political or governmental power.</p>
               
             </div>
+           
             <div class="col">
                 <h3>Sources</h3>
                 <p><a href="Seethecode.html">See the code!</a></p></FONT>
